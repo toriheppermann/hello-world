@@ -1,0 +1,2 @@
+# hello-world
+Hello J5502 friends! My name is Tori. I'm a senior undergrad from Troy, Missouri, a small town outside of St. Louis. I am currently studying magazine design with a minor in textile and apparel management. With that being said, my ultimate goal is to design for a fashion magazine. I know a lot about print design, but next to nothing about web design. Throughout this course, I hope to change that and get some web design experience under my belt. I'm looking forward to learning a about coding and the production process of web design.
